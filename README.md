@@ -1,1 +1,1 @@
-# C-Problem-Bank
+# C++ Problem Bank
