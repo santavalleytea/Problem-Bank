@@ -1,8 +1,8 @@
 # 📌 C++ Problem Bank
 
-A collection of C++ implementations for problems from various sources, including university tutorials, competitive programming platforms, and theoretical exercises.
+A collection of C++ implementations for problems from various sources, including university tutorials, prorgramming platforms, and theoretical exercises/concepts.
 
-This repository is designed to help reinforce C++ coding skills without requiring large projects. Instead, it focuses on solving well-defined problems across different topics.
+This repository is designed to help reinforce my C++ coding skills without requiring large, creative projects. Instead, the focus is on solving well-defined problems across different topics.
 
 ## 📂 Repository Structure
 
@@ -23,10 +23,9 @@ Implementations of fundamental data structures.
 ### 🔹 Problem_Sets
 Solutions to problems from various sources.
 
-- **leetcode_easy/** – Solutions to easy-level LeetCode problems.
-- **uni_tutorials/** – C++ solutions for university tutorial problems.
-- **CTF_related/** – Coding challenges related to security and reverse engineering.
-
+- **leetcode** – Solutions to LeetCode problems.
+- **uni_tutorials** – C++ solutions for university tutorial problems.
+  
 ### 🔹 Concepts
 Explorations of C++ features and concepts.
 
