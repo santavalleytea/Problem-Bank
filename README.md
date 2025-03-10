@@ -2,7 +2,7 @@
 
 A collection of C++ implementations for problems from various sources, including university tutorials, prorgramming platforms, and theoretical exercises/concepts.
 
-This repository is designed to help reinforce my C++ coding skills without requiring large, creative projects. Instead, the focus is on solving well-defined problems across different topics.
+Since my Data Structures & Algorithms class, I noticed that, while my ability to design an algorithm and write out proofs were improving, I was constantly struggling with writing it out in code. Thus, this repository is a collection of theoretical concepts and problems written in code format to help me improve my ability to code. 
 
 ## 📂 Repository Structure
 
@@ -20,11 +20,12 @@ Implementations of fundamental data structures.
 - `queue.cpp` – FIFO queue implementation.
 - `binary_search_tree.cpp` – Basic BST operations.
 
-### 🔹 Problem_Sets
-Solutions to problems from various sources.
+### 🔹 Tutorials
+Solutions to problems from university tutorials.
 
-- **leetcode** – Solutions to LeetCode problems.
-- **uni_tutorials** – C++ solutions for university tutorial problems.
+- **COMP2823** – Tutorial exercises from my Data Structures and Algorithms (Advanced) class.
+- **COMP2022** - Tutorial exercises from my Models of Computation class.
+- **COMP3027** – Tutorial exercises from my Algorithm Design class.
   
 ### 🔹 Concepts
 Explorations of C++ features and concepts.
