@@ -6,39 +6,30 @@ Since my Data Structures & Algorithms class, I noticed that, while my ability to
 
 ## 📂 Repository Structure
 
-### 🔹 Algorithms
-Contains implementations of standard algorithms, categorized by type.
-
-- **Graphs/** – BFS, DFS, Dijkstra’s Algorithm, Prim’s, Kruskal’s, etc.
-- **Greedy/** – Huffman Coding, Activity Selection, Interval Scheduling, etc.
-
-### 🔹 Data_Structures
-Implementations of fundamental data structures.
-
-- `linked_list.cpp` – Singly and doubly linked lists.
-- `stack.cpp` – Stack implementation using arrays and linked lists.
-- `queue.cpp` – FIFO queue implementation.
-- `binary_search_tree.cpp` – Basic BST operations.
-
-### 🔹 Tutorials
-Solutions to problems from university tutorials.
+### 🔹 Computer Science Tutorials
+Solutions to problems from my university CS tutorials and relevant textbook problems.
 
 - **COMP2823** – Tutorial exercises from my Data Structures and Algorithms (Advanced) class.
 - **COMP2022** - Tutorial exercises from my Models of Computation class.
 - **COMP3027** – Tutorial exercises from my Algorithm Design class.
+
+### 🔹 LeetCode
+My solutions to LeetCode Questions.
+
+- **Arrays & Hashing/** – Arrays, Hash Tables, Dynamic Arrays etc.
+
+### 🔹 Mathematics
+Implementations of solutions (and/or automations) from my university Mathematics classes or other text book problems.
+
+- **Linear Algebra** - First year linear algebra class (MATH1002).
+
   
-### 🔹 Concepts
-Explorations of C++ features and concepts.
+### 🔹 Others
+Explorations of C++ features and concepts, as well as other programs that are not categorized by the above.
 
 - **Pointers_and_Memory/** – Memory management, smart pointers, pointer arithmetic.
 - **Multithreading/** – Basics of threading in C++.
 - **STL_Practice/** – Usage of C++ STL containers like `vector`, `map`, `set`.
-
-### 🔹 Misc
-Other implementations and experiments.
-
-- `file_handling.cpp` – Reading and writing files in C++.
-- `regex_parsing.cpp` – Using regex for pattern matching.
 
 ---
 
