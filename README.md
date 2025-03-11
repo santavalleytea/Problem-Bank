@@ -21,7 +21,8 @@ My solutions to LeetCode Questions.
 ### 🔹 Mathematics
 Implementations of solutions (and/or automations) from my university Mathematics classes or other text book problems.
 
-- **[Linear Algebra](https://github.com/santavalleytea/CPP-Problem-Bank/tree/main/Mathematics/Linear%20Algebra)** - First year linear algebra class (MATH1002).
+- **[MATH1002](https://github.com/santavalleytea/CPP-Problem-Bank/tree/main/Mathematics/MATH1002)** - Problems from my first year Linear Algebra class.
+- **[MATH3962](https://github.com/santavalleytea/CPP-Problem-Bank/tree/main/Mathematics/MATH3962)** - Problems from my third year Rings, Fields and Galois Theory class.
   
 ### 🔹 Others
 Explorations of C++ features and concepts, as well as other programs that are not categorized by the above.
