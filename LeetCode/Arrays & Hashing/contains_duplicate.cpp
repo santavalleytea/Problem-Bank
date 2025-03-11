@@ -4,7 +4,7 @@
 
 class Solution {
     public:
-        bool containsDuplicate(vector<int>& nums) {
+        bool containsDuplicate(std::vector<int>& nums) {
             // Unordered set with unique elements
             std::unordered_set<int> vals;
     
