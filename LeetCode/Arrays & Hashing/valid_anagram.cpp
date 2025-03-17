@@ -2,6 +2,8 @@
 #include <string>
 #include <unordered_map>
 
+// LeetCode #242
+
 class Solution {
     public:
         bool isAnagram(std::string s, std::string t) {
