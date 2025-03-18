@@ -1,6 +1,6 @@
 # 📌 COMP3027: Algorithm Design (Tutorial 2)
 
-A collection of C++ implementations for problems from my 3rd year Algorithm Design class Tutorial 1.
+A collection of C++ implementations for problems from my 3rd year Algorithm Design class Tutorial 2.
 
 # 📘 Problem Questions
 
