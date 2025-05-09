@@ -1,6 +1,6 @@
-# 📌 C++ Problem Bank
+# 📌 Problem Bank
 
-A collection of C++ implementations for problems from various sources, including university tutorials, prorgramming platforms, and theoretical exercises/concepts.
+A collection of code implementations for problems from various sources, including university tutorials, prorgramming platforms, and theoretical exercises/concepts.
 
 Since my Data Structures & Algorithms class, I noticed that, while my ability to design an algorithm and write out proofs were improving, I was constantly struggling with writing it out in code. Thus, this repository is a collection of theoretical concepts and problems written in code format to help me improve my ability to code. 
 
@@ -23,13 +23,6 @@ Implementations of solutions (and/or automations) from my university Mathematics
 
 - **[MATH1002](https://github.com/santavalleytea/CPP-Problem-Bank/tree/main/Mathematics/MATH1002)** - Problems from my first year Linear Algebra class.
 - **[MATH3962](https://github.com/santavalleytea/CPP-Problem-Bank/tree/main/Mathematics/MATH3962)** - Problems from my third year Rings, Fields and Galois Theory class.
-  
-### 🔹 Others
-Explorations of C++ features and concepts, as well as other programs that are not categorized by the above.
-
-- **Pointers_and_Memory/** – Memory management, smart pointers, pointer arithmetic.
-- **Multithreading/** – Basics of threading in C++.
-- **STL_Practice/** – Usage of C++ STL containers like `vector`, `map`, `set`.
 
 ---
 
