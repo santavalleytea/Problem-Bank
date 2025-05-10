@@ -1,6 +1,6 @@
 # 📌 COMP2823: Data Structures & Algorithms (Tutorial 2)
 
-A collection of C++ implementations for problems from my 2nd year DS&A class Tutorial 2.
+A collection of code implementations for problems from my 2nd year DS&A class Tutorial 2.
 
 # 📘 Problem Questions
 
@@ -15,3 +15,7 @@ Using only two stacks, provide an implementation of a queue. Analyze the time co
 - Otherwise, if only $s2$ is empty, we move all the elements from $s1$ to $s2$ and then pop the top element in $s2$. By doing so, we remove the element that was pushed first into $s1$.
 - Similary, with the `front()` function, we do the same as above except we simply just return the top element rather than removing it.
 - Finally, the `isEmpty()` function returns `true` or `false` depending on if both `s1, s2` are empty or not.
+
+## Question 6.
+
+### Approach
