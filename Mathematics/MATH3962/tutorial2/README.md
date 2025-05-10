@@ -1,6 +1,6 @@
 # 📌 MATH3962: Rings, Fields and Galois Theory (Tutorial 2)
 
-A collection of C++ implementations for problems from my 3rd year Galois Theory class; Tutorial 2.
+A collection of code implementations for problems from my 3rd year Galois Theory class; Tutorial 2.
 
 # 📘 Problem Questions
 
