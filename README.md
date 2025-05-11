@@ -9,7 +9,7 @@ Since my Data Structures & Algorithms class, I noticed that, while my ability to
 ### 🔹 Computer Science Tutorials
 Solutions to problems from my university CS tutorials and relevant textbook problems.
 
-- **COMP2823** – Tutorial exercises from my Data Structures and Algorithms (Advanced) class.
+- **[COMP2823](https://github.com/santavalleytea/Problem-Bank/tree/main/CS%20Tutorials/COMP2823)** – Tutorial exercises from my Data Structures and Algorithms (Advanced) class.
 - **COMP2022** - Tutorial exercises from my Models of Computation class.
 - **[COMP3027](https://github.com/santavalleytea/Problem-Bank/tree/main/CS%20Tutorials/COMP3027)** – Tutorial exercises from my Algorithm Design class.
 
